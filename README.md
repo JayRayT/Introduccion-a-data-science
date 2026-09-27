@@ -1,3 +1,4 @@
+
 # World Cup Database — Avance 1
 
 ## Integrantes
@@ -103,3 +104,6 @@ Decisiones de diseño relevantes:
 
 Cada paso imprime en consola cuántas filas se procesaron/insertaron por
 tabla, y hace `rollback` automático si alguna carga falla a mitad de camino.
+
+# Introduccion-a-data-science
+>>>>>>> 2d83e585c3120d2c3064bb2dd9b4601cfd96c22d
