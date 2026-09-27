@@ -1,0 +1,203 @@
+city_id,city_name,country_id,city_wiki
+CTY-001,Buenos Aires,C-001,https://en.wikipedia.org/wiki/Buenos_Aires
+CTY-002,Córdoba,C-001,"https://en.wikipedia.org/wiki/Córdoba,_Argentina"
+CTY-003,Mar del Plata,C-001,https://en.wikipedia.org/wiki/Mar_del_Plata
+CTY-004,Mendoza,C-001,"https://en.wikipedia.org/wiki/Mendoza,_Argentina"
+CTY-005,Rosario,C-001,"https://en.wikipedia.org/wiki/Rosario,_Santa_Fe"
+CTY-006,Belo Horizonte,C-002,https://en.wikipedia.org/wiki/Belo_Horizonte
+CTY-007,Brasília,C-002,https://en.wikipedia.org/wiki/Bras%C3%ADlia
+CTY-008,Cuiabá,C-002,https://en.wikipedia.org/wiki/Cuiabá
+CTY-009,Curitiba,C-002,https://en.wikipedia.org/wiki/Curitiba
+CTY-010,Fortaleza,C-002,https://en.wikipedia.org/wiki/Fortaleza
+CTY-011,Manaus,C-002,https://en.wikipedia.org/wiki/Manaus
+CTY-012,Natal,C-002,"https://en.wikipedia.org/wiki/Natal,_Rio_Grande_do_Norte"
+CTY-013,Porto Alegre,C-002,https://en.wikipedia.org/wiki/Porto_Alegre
+CTY-014,Recife,C-002,https://en.wikipedia.org/wiki/Recife
+CTY-015,Rio de Janeiro,C-002,https://en.wikipedia.org/wiki/Rio_de_Janeiro
+CTY-016,Salvador,C-002,"https://en.wikipedia.org/wiki/Salvador,_Bahia"
+CTY-017,São Paulo,C-002,https://en.wikipedia.org/wiki/São_Paulo
+CTY-018,Edmonton,C-003,https://en.wikipedia.org/wiki/Edmonton
+CTY-019,Moncton,C-003,https://en.wikipedia.org/wiki/Moncton
+CTY-020,Montreal,C-003,https://en.wikipedia.org/wiki/Montreal
+CTY-021,Ottawa,C-003,https://en.wikipedia.org/wiki/Ottawa
+CTY-022,Vancouver,C-003,https://en.wikipedia.org/wiki/Vancouver
+CTY-023,Winnipeg,C-003,https://en.wikipedia.org/wiki/Winnipeg
+CTY-024,Arica,C-004,https://en.wikipedia.org/wiki/Arica
+CTY-025,Rancagua,C-004,https://en.wikipedia.org/wiki/Rancagua
+CTY-026,Santiago,C-004,https://en.wikipedia.org/wiki/Santiago
+CTY-027,Viña del Mar,C-004,https://en.wikipedia.org/wiki/Viña_del_Mar
+CTY-028,Chengdu,C-005,https://en.wikipedia.org/wiki/Chengdu
+CTY-029,Foshan,C-005,https://en.wikipedia.org/wiki/Foshan
+CTY-030,Guangzhou,C-005,https://en.wikipedia.org/wiki/Guangzhou
+CTY-031,Hangzhou,C-005,https://en.wikipedia.org/wiki/Hangzhou
+CTY-032,Jiangmen,C-005,https://en.wikipedia.org/wiki/Jiangmen
+CTY-033,Shanghai,C-005,https://en.wikipedia.org/wiki/Shanghai
+CTY-034,Tianjin,C-005,https://en.wikipedia.org/wiki/Tianjin
+CTY-035,Wuhan,C-005,https://en.wikipedia.org/wiki/Wuhan
+CTY-036,Zhongshan,C-005,https://en.wikipedia.org/wiki/Zhongshan
+CTY-037,Birmingham,C-006,https://en.wikipedia.org/wiki/Birmingham
+CTY-038,Liverpool,C-006,https://en.wikipedia.org/wiki/Liverpool
+CTY-039,London,C-006,https://en.wikipedia.org/wiki/London
+CTY-040,Manchester,C-006,https://en.wikipedia.org/wiki/Manchester
+CTY-041,Middlesbrough,C-006,https://en.wikipedia.org/wiki/Middlesbrough
+CTY-042,Sheffield,C-006,https://en.wikipedia.org/wiki/Sheffield
+CTY-043,Sunderland,C-006,https://en.wikipedia.org/wiki/Sunderland
+CTY-044,Antibes,C-007,https://en.wikipedia.org/wiki/Antibes
+CTY-045,Bordeaux,C-007,https://en.wikipedia.org/wiki/Bordeaux
+CTY-046,Grenoble,C-007,https://en.wikipedia.org/wiki/Grenoble
+CTY-047,Le Havre,C-007,https://en.wikipedia.org/wiki/Le_Havre
+CTY-048,Lens,C-007,"https://en.wikipedia.org/wiki/Lens,_Pas-de-Calais"
+CTY-049,Lille,C-007,https://en.wikipedia.org/wiki/Lille
+CTY-050,Lyon,C-007,https://en.wikipedia.org/wiki/Lyon
+CTY-051,Marseille,C-007,https://en.wikipedia.org/wiki/Marseille
+CTY-052,Montpellier,C-007,https://en.wikipedia.org/wiki/Montpellier
+CTY-053,Nantes,C-007,https://en.wikipedia.org/wiki/Nantes
+CTY-054,Nice,C-007,https://en.wikipedia.org/wiki/Nice
+CTY-055,Paris,C-007,https://en.wikipedia.org/wiki/Paris
+CTY-056,Reims,C-007,https://en.wikipedia.org/wiki/Reims
+CTY-057,Rennes,C-007,https://en.wikipedia.org/wiki/Rennes
+CTY-058,Saint-Denis,C-007,"https://en.wikipedia.org/wiki/Saint-Denis,_Seine-Saint-Denis"
+CTY-059,Saint-Étienne,C-007,https://en.wikipedia.org/wiki/Saint-Étienne
+CTY-060,Strasbourg,C-007,https://en.wikipedia.org/wiki/Strasbourg
+CTY-061,Toulouse,C-007,https://en.wikipedia.org/wiki/Toulouse
+CTY-062,Valenciennes,C-007,https://en.wikipedia.org/wiki/Valenciennes
+CTY-063,Augsburg,C-008,https://en.wikipedia.org/wiki/Augsburg
+CTY-064,Berlin,C-008,https://en.wikipedia.org/wiki/Berlin
+CTY-065,Bochum,C-008,https://en.wikipedia.org/wiki/Bochum
+CTY-066,Cologne,C-008,https://en.wikipedia.org/wiki/Cologne
+CTY-067,Dortmund,C-008,https://en.wikipedia.org/wiki/Dortmund
+CTY-068,Dresden,C-008,https://en.wikipedia.org/wiki/Dresden
+CTY-069,Düsseldorf,C-008,https://en.wikipedia.org/wiki/Düsseldorf
+CTY-070,Frankfurt,C-008,https://en.wikipedia.org/wiki/Frankfurt
+CTY-071,Gelsenkirchen,C-008,https://en.wikipedia.org/wiki/Gelsenkirchen
+CTY-072,Hamburg,C-008,https://en.wikipedia.org/wiki/Hamburg
+CTY-073,Hanover,C-008,https://en.wikipedia.org/wiki/Hanover
+CTY-074,Kaiserslautern,C-008,https://en.wikipedia.org/wiki/Kaiserslautern
+CTY-075,Leipzig,C-008,https://en.wikipedia.org/wiki/Leipzig
+CTY-076,Leverkusen,C-008,https://en.wikipedia.org/wiki/Leverkusen
+CTY-077,Mönchengladbach,C-008,https://en.wikipedia.org/wiki/Mönchengladbach
+CTY-078,Munich,C-008,https://en.wikipedia.org/wiki/Munich
+CTY-079,Nuremberg,C-008,https://en.wikipedia.org/wiki/Nuremberg
+CTY-080,Sinsheim,C-008,https://en.wikipedia.org/wiki/Sinsheim
+CTY-081,Stuttgart,C-008,https://en.wikipedia.org/wiki/Stuttgart
+CTY-082,Wolfsburg,C-008,https://en.wikipedia.org/wiki/Wolfsburg
+CTY-083,Bari,C-009,https://en.wikipedia.org/wiki/Bari
+CTY-084,Bologna,C-009,https://en.wikipedia.org/wiki/Bologna
+CTY-085,Cagliari,C-009,https://en.wikipedia.org/wiki/Cagliari
+CTY-086,Florence,C-009,https://en.wikipedia.org/wiki/Florence
+CTY-087,Genoa,C-009,https://en.wikipedia.org/wiki/Genoa
+CTY-088,Milan,C-009,https://en.wikipedia.org/wiki/Milan
+CTY-089,Naples,C-009,https://en.wikipedia.org/wiki/Naples
+CTY-090,Palermo,C-009,https://en.wikipedia.org/wiki/Palermo
+CTY-091,Rome,C-009,https://en.wikipedia.org/wiki/Rome
+CTY-092,Trieste,C-009,https://en.wikipedia.org/wiki/Trieste
+CTY-093,Turin,C-009,https://en.wikipedia.org/wiki/Turin
+CTY-094,Udine,C-009,https://en.wikipedia.org/wiki/Udine
+CTY-095,Verona,C-009,https://en.wikipedia.org/wiki/Verona
+CTY-096,Ibaraki,C-010,"https://en.wikipedia.org/wiki/Kashima,_Ibaraki"
+CTY-097,Kobe,C-010,https://en.wikipedia.org/wiki/Kobe
+CTY-098,Miyagi,C-010,https://en.wikipedia.org/wiki/Miyagi_Prefecture
+CTY-099,Niigata,C-010,"https://en.wikipedia.org/wiki/Niigata,_Niigata"
+CTY-100,Ōita,C-010,"https://en.wikipedia.org/wiki/Ōita,_Ōita"
+CTY-101,Osaka,C-010,https://en.wikipedia.org/wiki/Osaka
+CTY-102,Saitama,C-010,"https://en.wikipedia.org/wiki/Saitama,_Saitama"
+CTY-103,Sapporo,C-010,https://en.wikipedia.org/wiki/Sapporo
+CTY-104,Shizuoka,C-010,"https://en.wikipedia.org/wiki/Fukuroi,_Shizuoka"
+CTY-105,Yokohama,C-010,https://en.wikipedia.org/wiki/Yokohama
+CTY-106,Guadalajara,C-011,https://en.wikipedia.org/wiki/Guadalajara
+CTY-107,Irapuato,C-011,https://en.wikipedia.org/wiki/Irapuato
+CTY-108,León,C-011,"https://en.wikipedia.org/wiki/León,_Guanajuato"
+CTY-109,Mexico City,C-011,https://en.wikipedia.org/wiki/Mexico_City
+CTY-110,Monterrey,C-011,https://en.wikipedia.org/wiki/Monterrey
+CTY-111,Nezahualcóyotl,C-011,https://en.wikipedia.org/wiki/Ciudad_Nezahualcóyotl
+CTY-112,Puebla,C-011,https://en.wikipedia.org/wiki/Puebla_City
+CTY-113,Querétaro,C-011,https://en.wikipedia.org/wiki/Santiago_de_Querétaro
+CTY-114,Toluca,C-011,https://en.wikipedia.org/wiki/Toluca
+CTY-115,Al Khor,C-012,https://en.wikipedia.org/wiki/Al_Khor_(city)
+CTY-116,Al Rayyan,C-012,https://en.wikipedia.org/wiki/Al_Rayyan_(city)
+CTY-117,Al Wakrah,C-012,https://en.wikipedia.org/wiki/Al_Wakrah
+CTY-118,Doha,C-012,https://en.wikipedia.org/wiki/Doha
+CTY-119,Lusail,C-012,https://en.wikipedia.org/wiki/Lusail
+CTY-120,Kaliningrad,C-013,https://en.wikipedia.org/wiki/Kaliningrad
+CTY-121,Kazan,C-013,https://en.wikipedia.org/wiki/Kazan_Arena
+CTY-122,Moscow,C-013,https://en.wikipedia.org/wiki/Moscow
+CTY-123,Nizhny Novgorod,C-013,https://en.wikipedia.org/wiki/Nizhny_Novgorod
+CTY-124,Rostov-on-Don,C-013,https://en.wikipedia.org/wiki/Rostov-on-Don
+CTY-125,Saint Petersburg,C-013,https://en.wikipedia.org/wiki/Saint_Petersburg
+CTY-126,Samara,C-013,https://en.wikipedia.org/wiki/Samara
+CTY-127,Saransk,C-013,https://en.wikipedia.org/wiki/Saransk
+CTY-128,Sochi,C-013,https://en.wikipedia.org/wiki/Sochi
+CTY-129,Volgograd,C-013,https://en.wikipedia.org/wiki/Volgograd
+CTY-130,Yekaterinburg,C-013,https://en.wikipedia.org/wiki/Yekaterinburg
+CTY-131,Bloemfontein,C-014,https://en.wikipedia.org/wiki/Bloemfontein
+CTY-132,Cape Town,C-014,https://en.wikipedia.org/wiki/Cape_Town
+CTY-133,Durban,C-014,https://en.wikipedia.org/wiki/Durban
+CTY-134,Johannesburg,C-014,https://en.wikipedia.org/wiki/Johannesburg
+CTY-135,Nelspruit,C-014,https://en.wikipedia.org/wiki/Nelspruit
+CTY-136,Polokwane,C-014,https://en.wikipedia.org/wiki/Polokwane
+CTY-137,Port Elizabeth,C-014,https://en.wikipedia.org/wiki/Port_Elizabeth
+CTY-138,Pretoria,C-014,https://en.wikipedia.org/wiki/Pretoria
+CTY-139,Rustenburg,C-014,https://en.wikipedia.org/wiki/Rustenburg
+CTY-140,Busan,C-015,https://en.wikipedia.org/wiki/Busan
+CTY-141,Daegu,C-015,https://en.wikipedia.org/wiki/Daegu
+CTY-142,Daejeon,C-015,https://en.wikipedia.org/wiki/Daejeon
+CTY-143,Gwangju,C-015,https://en.wikipedia.org/wiki/Gwangju
+CTY-144,Incheon,C-015,https://en.wikipedia.org/wiki/Incheon
+CTY-145,Jeonju,C-015,https://en.wikipedia.org/wiki/Jeonju
+CTY-146,Seogwipo,C-015,https://en.wikipedia.org/wiki/Seogwipo
+CTY-147,Seoul,C-015,https://en.wikipedia.org/wiki/Seoul
+CTY-148,Suwon,C-015,https://en.wikipedia.org/wiki/Suwon
+CTY-149,Ulsan,C-015,https://en.wikipedia.org/wiki/Ulsan
+CTY-150,A Coruña,C-016,https://en.wikipedia.org/wiki/A_Coruña
+CTY-151,Alicante,C-016,https://en.wikipedia.org/wiki/Alicante
+CTY-152,Barcelona,C-016,https://en.wikipedia.org/wiki/Barcelona
+CTY-153,Bilbao,C-016,https://en.wikipedia.org/wiki/Bilbao
+CTY-154,Elche,C-016,https://en.wikipedia.org/wiki/Elche
+CTY-155,Gijón,C-016,https://en.wikipedia.org/wiki/Gijón
+CTY-156,Madrid,C-016,https://en.wikipedia.org/wiki/Madrid
+CTY-157,Málaga,C-016,https://en.wikipedia.org/wiki/Málaga
+CTY-158,Oviedo,C-016,https://en.wikipedia.org/wiki/Oviedo
+CTY-159,Seville,C-016,https://en.wikipedia.org/wiki/Seville
+CTY-160,Valencia,C-016,https://en.wikipedia.org/wiki/Valencia
+CTY-161,Valladolid,C-016,https://en.wikipedia.org/wiki/Valladolid
+CTY-162,Vigo,C-016,https://en.wikipedia.org/wiki/Vigo
+CTY-163,Zaragoza,C-016,https://en.wikipedia.org/wiki/Zaragoza
+CTY-164,Borås,C-017,https://en.wikipedia.org/wiki/Borås
+CTY-165,Eskilstuna,C-017,https://en.wikipedia.org/wiki/Eskilstuna
+CTY-166,Gävle,C-017,https://en.wikipedia.org/wiki/Gävle
+CTY-167,Gothenburg,C-017,https://en.wikipedia.org/wiki/Gothenburg
+CTY-168,Halmstad,C-017,https://en.wikipedia.org/wiki/Halmstad
+CTY-169,Helsingborg,C-017,https://en.wikipedia.org/wiki/Helsingborg
+CTY-170,Karlstad,C-017,https://en.wikipedia.org/wiki/Karlstad
+CTY-171,Malmö,C-017,https://en.wikipedia.org/wiki/Malmö
+CTY-172,Norrköping,C-017,https://en.wikipedia.org/wiki/Norrköping
+CTY-173,Örebro,C-017,https://en.wikipedia.org/wiki/Örebro
+CTY-174,Sandviken,C-017,https://en.wikipedia.org/wiki/Sandviken
+CTY-175,Solna,C-017,https://en.wikipedia.org/wiki/Solna_Municipality
+CTY-176,Uddevalla,C-017,https://en.wikipedia.org/wiki/Uddevalla
+CTY-177,Västerås,C-017,https://en.wikipedia.org/wiki/Västerås
+CTY-178,Basel,C-018,https://en.wikipedia.org/wiki/Basel
+CTY-179,Bern,C-018,https://en.wikipedia.org/wiki/Bern
+CTY-180,Geneva,C-018,https://en.wikipedia.org/wiki/Geneva
+CTY-181,Lausanne,C-018,https://en.wikipedia.org/wiki/Lausanne
+CTY-182,Lugano,C-018,https://en.wikipedia.org/wiki/Lugano
+CTY-183,Zürich,C-018,https://en.wikipedia.org/wiki/Zürich
+CTY-184,Boston,C-019,https://en.wikipedia.org/wiki/Boston
+CTY-185,Carson,C-019,"https://en.wikipedia.org/wiki/Carson,_California"
+CTY-186,Chicago,C-019,https://en.wikipedia.org/wiki/Chicago
+CTY-187,Columbus,C-019,"https://en.wikipedia.org/wiki/Columbus,_Ohio"
+CTY-188,Dallas,C-019,https://en.wikipedia.org/wiki/Dallas
+CTY-189,East Rutherford,C-019,"https://en.wikipedia.org/wiki/East_Rutherford,_New_Jersey"
+CTY-190,Foxborough,C-019,https://en.wikipedia.org/wiki/Foxboro_Stadium
+CTY-191,Los Angeles,C-019,https://en.wikipedia.org/wiki/Los_Angeles
+CTY-192,New York City,C-019,https://en.wikipedia.org/wiki/New_York_City
+CTY-193,Orlando,C-019,"https://en.wikipedia.org/wiki/Orlando,_Florida"
+CTY-194,Pasadena,C-019,"https://en.wikipedia.org/wiki/Pasadena,_California"
+CTY-195,Philadelphia,C-019,https://en.wikipedia.org/wiki/Philadelphia
+CTY-196,Pontiac,C-019,"https://en.wikipedia.org/wiki/Pontiac,_Michigan"
+CTY-197,Portland,C-019,"https://en.wikipedia.org/wiki/Portland,_Oregon"
+CTY-198,San Fransisco,C-019,https://en.wikipedia.org/wiki/San_Francisco
+CTY-199,San Jose,C-019,"https://en.wikipedia.org/wiki/San_Jose,_California"
+CTY-200,Stanford,C-019,"https://en.wikipedia.org/wiki/Stanford,_California"
+CTY-201,"Washington, D.C.",C-019,"https://en.wikipedia.org/wiki/Washington,_D.C."
+CTY-202,Montevideo,C-020,https://en.wikipedia.org/wiki/Montevideo

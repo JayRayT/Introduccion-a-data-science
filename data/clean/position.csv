@@ -1,0 +1,22 @@
+position_id,position_name,position_code
+POS-01,goal keeper,GK
+POS-02,defender,DF
+POS-03,midfielder,MF
+POS-04,forward,FW
+POS-05,right back,RB
+POS-06,left back,LB
+POS-07,defensive midfielder,DM
+POS-08,center back,CB
+POS-09,center forward,CF
+POS-10,center midfielder,CM
+POS-11,attacking midfielder,AM
+POS-12,right winger,RW
+POS-13,left winger,LW
+POS-14,right midfielder,RM
+POS-15,second striker,SS
+POS-16,left midfielder,LM
+POS-17,left forward,LF
+POS-18,right forward,RF
+POS-19,sweeper,SW
+POS-20,right wing back,RWB
+POS-21,left wing back,LWB
