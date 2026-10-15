@@ -1,8 +1,7 @@
 
 # World Cup Database — Avance 1
 
-## Integrantes
-- [Completar con nombres del equipo]
+
 
 ## Descripción del proyecto
 Base de datos relacional que almacena datos históricos de los Mundiales de la
